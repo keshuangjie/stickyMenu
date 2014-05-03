@@ -1,4 +1,5 @@
-stickyMenu 
-ÊÇÒ»¸ö»¬¶¯Ê±TabBarËæListView½øĞĞ»¬¶¯µ½Ò»¶¨¾àÀëÊ±¹Ì¶¨ÔÚ¶¥¶Ë£¬²¢ÇÒµ±tabÖ®¼äÇĞ»»Ê±±£³ÖTabBarµÄÎ»ÖÃ²»±äµÄ¿Ø¼şdemo¡£
-ÆäÖĞµÄMyListViewÖ§³ÖÏÂÀ­Ë¢ĞÂ¡¢ÉÏ»¬¼ÓÔØ¸ü¶à£¨MyListView¸Ä½øÓÚXListView£©¡£
-![image](https://github.com/keshuangjie/stickyMenu/tree/master/screenshots/stickyMenu-screenShots.gif
+ï»¿stickyMenu 
+æ˜¯ä¸€ä¸ªæ»‘åŠ¨æ—¶TabBaréšListViewè¿›è¡Œæ»‘åŠ¨åˆ°ä¸€å®šè·ç¦»æ—¶å›ºå®šåœ¨é¡¶ç«¯ï¼Œå¹¶ä¸”å½“tabä¹‹é—´åˆ‡æ¢æ—¶ä¿æŒTabBarçš„ä½ç½®ä¸å˜çš„æ§ä»¶demoã€‚
+å…¶ä¸­çš„MyListViewæ”¯æŒä¸‹æ‹‰åˆ·æ–°ã€ä¸Šæ»‘åŠ è½½æ›´å¤šï¼ˆMyListViewæ”¹è¿›äºXListViewï¼‰ã€‚
+æ•ˆæœå¦‚ä¸‹å›¾ï¼š
+![image](https://github.com/keshuangjie/stickyMenu/tree/master/screenshots/stickyMenu-screenShots.gif)
