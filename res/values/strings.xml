@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StickyMenuDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+     <!-- 上滑加载更多 -->
+    <string name="load_message_fail">加载数据失败，请点击重试</string>
+    <string name="load_message_more">更  多</string>
+    <string name="load_data">加载数据</string>
+    <string name="load_no_data">暂无数据,点击刷新</string>
+
+</resources>

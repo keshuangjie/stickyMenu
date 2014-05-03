@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <!-- 常用字体大小，使用dip单位可避免一部分适配 -->
+    <dimen name="t_small_size">12dip</dimen>
+    <dimen name="t_middle_size">14dip</dimen>
+    <dimen name="t_large_size">16dip</dimen>
+    <dimen name="t_high_size">18dip</dimen>
+    <dimen name="t_xhigh_size">20dip</dimen> 
+    
+    <!-- headerview相关 -->
+    <dimen name="height_my_header">260dip</dimen>
+    <dimen name="my_header_height_really">240dip</dimen>
+    <dimen name="margintop_my_header">-20dip</dimen>
+    <dimen name="height_my_header_menu">45dip</dimen>
+    <dimen name="height_my_header_add_menu">285dip</dimen>
+    <dimen name="width_my_indicator">87dip</dimen>
+    <dimen name="margintop_my_header_setting">20dip</dimen>
+    <dimen name="margintop_my_header_progress">32dip</dimen>
+    
+</resources>

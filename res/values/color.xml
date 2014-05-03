@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 页面默认背景 -->
+    <color name="default_backgroud">#e3e6ea</color>
+    <color name="line_dcdcdc">#dcdcdc</color>
+    <color name="top_bg">#de434e</color>
+
+    <!-- 字体颜色 -->
+    <color name="font_343434">#343434</color>
+    <color name="font_b0b0b0">#b0b0b0</color>
+    <color name="font_888888">#888888</color>
+    <color name="font_4a4a4a">#4a4a4a</color>
+    <color name="font_838282">#838282</color>
+    <color name="font_c7c7c7">#c7c7c7</color>
+    <color name="font_7f7f7f">#7f7f7f</color>
+    <color name="font_808080">#808080</color>
+    <color name="font_2d2d2d">#2d2d2d</color>
+    <color name="font_d8dbde">#d8dbde</color>
+    <color name="font_c3c3c3">#c3c3c3</color>
+    <color name="font_white">#ffffff</color>
+	<color name="font_deb058">#deb058</color>
+     <color name="font_666666">#666666</color>
+     
+     <!-- 赞、评论按钮上的字体颜色 -->
+     <color name="font_comment_btn">#858585</color>
+
+ 	<color name="font_dbdbdb">#dbdbdb</color>
+     <color name="font_red">#FF0000</color>
+  
+
+     <color name="edit_font_color">#adadad</color>
+    <color name="edit_font_color_red">#ee7880</color>
+    <color name="img_select_font_notice">#a3a5a8</color>
+ 
+    <color name="search_item_color_pressed">#eeeeee</color>
+    <color name="search_item_color_default">#f1f2f3</color>
+    <color name="bg_favorite">#fbfbfb</color>
+    <color name="comment_list_item_default">#f5f5f5</color>
+    <color name="comment_list_item_pressed">#e6e6e6</color>
+    <drawable name="edit_cursor_color">#ee7880</drawable>
+    
+    <color name="top_btn_bg_pressed">#cb3944</color>
+    
+</resources>
